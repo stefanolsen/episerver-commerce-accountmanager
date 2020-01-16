@@ -4,4 +4,6 @@ This project contains files (classes, views and configurations) that will enable
 
 ## Installation
 
-Download the `Apps` folder, and place it in the root of your Commerce Manager project. Make sure all folders are included in the project to enable compilation of the class files.
+Download the `Apps` folder, and place it in the root of your Commerce Manager project.
+
+Make sure all folders are included in the project to enable compilation of the class files.
